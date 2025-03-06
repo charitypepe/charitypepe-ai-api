@@ -1,0 +1,5 @@
+# Игнорирай всичко освен нужните файлове
+/*
+!api_bridge.py
+!requirements.txt
+!.gitignore
